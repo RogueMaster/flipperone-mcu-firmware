@@ -7,7 +7,7 @@
 ## Thank you so much to our RM Pro/SUPER Patreon supporters! Because of people like you, we are able to offer the best and most up-to-date Flipper Zero Firmware!
 
 <table><tr><th><div align="left">
-This firmware is a fork of all Flipper One community projects! We are NOT paywalled. I will keep RM Custom Firmware the most cutting-edge with active development and updates from all projects that can be found to be useful to the community. Although there are features exclusive to this firmware, there are also many updates by the rest of the Flipper Zero community. With the help of the entire community, we get the best firmware! See the RM <a href='https://discord.gg/gF2bBUzAFe' target="_blank">Discord</a> - <a href='https://www.patreon.com/RogueMaster' target="_blank">Patreon</a>
+This firmware is a fork of all Flipper One community projects! We are NOT paywalled. I will keep RM Custom Firmware the most cutting-edge with active development and updates from all projects that can be found to be useful to the community. Although there are features exclusive to this firmware, there are also many updates by the rest of the Flipper Zero / One community. With the help of the entire community, we get the best firmware! See the RM <a href='https://discord.gg/gF2bBUzAFe' target="_blank">Discord</a> - <a href='https://www.patreon.com/RogueMaster' target="_blank">Patreon</a>
 </div></th><th style='width:50%;'>
 This software is for experimental purposes only and is not meant for any illegal activity/purposes. We do not condone illegal activity and strongly encourage keeping transmissions to legal/valid uses allowed by law.
 </th></tr></table>
